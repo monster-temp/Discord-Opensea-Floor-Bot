@@ -1,0 +1,6 @@
+{
+  "prefix": "?",
+  "mongoPath": "mongo path here",
+  "redisPath": "redis path here"
+ 
+}
